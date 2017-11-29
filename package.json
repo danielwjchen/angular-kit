@@ -14,6 +14,8 @@
     "angular-kit-compile-ng-template": "^1.0.4",
     "angular-kit-date-range-form": "^1.0.0",
     "angular-kit-form-error-alert": "^1.0.1",
+    "angular-kit-helpers": "^1.1.3",
+    "angular-kit-input-title-case": "^1.0.1",
     "angular-kit-pagination": "^1.1.2",
     "angular-kit-rest-resource": "^1.1.2",
     "angular-kit-weight-unit-input": "^1.0.2",
