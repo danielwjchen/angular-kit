@@ -1,0 +1,40 @@
+{
+  "name": "angular-kit",
+  "version": "1.0.0",
+  "description": "A collection of angular modules built with Bootstrap 3",
+  "keywords": [
+    "angular",
+    "bootstrap"
+  ],
+  "author": "daniel@inquiresimplicity.com",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.11",
+    "angular-kit-cached-resource": "^1.2.0",
+    "angular-kit-compile-ng-template": "^1.0.4",
+    "angular-kit-date-range-form": "^1.0.0",
+    "angular-kit-form-error-alert": "^1.0.1",
+    "angular-kit-pagination": "^1.1.2",
+    "angular-kit-rest-resource": "^1.1.2",
+    "angular-kit-weight-unit-input": "^1.0.2",
+    "bootstrap-sass": "^3.3.7"
+  },
+  "files": [
+    "index.js",
+    "dist/",
+    "src/"
+  ],
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "pug": "^2.0.0-rc.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github:s1300045/angular-kit"
+  }
+}
